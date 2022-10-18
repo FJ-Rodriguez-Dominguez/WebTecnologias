@@ -1,5 +1,10 @@
+h1{
+    color: orange;
+    text-align: center;
+}
 .container{
-    display: flex;
+    text-align: center;
+    border: 1px solid green;
 }
 .item{
     list-style:none;
@@ -10,7 +15,7 @@
 }
 .item a{
     text-decoration: none;
-    text-transform: uppercase;
+    color: green;
 }
 .item.hover.a{
     color: white;
